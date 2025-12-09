@@ -52,7 +52,10 @@ Based on this condition:
 ---
 
 ## 📂 Files in Repository
-- `/workflow.json` – Exported workflow file  
+- `/automation-user-check-workflow
+.json` – Exported workflow file
+- `/automation-user-check-workflow
+.png` – Screenshot of workflow    
 - `/README.md` – Documentation  
 - Additional config files if needed
 
